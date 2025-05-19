@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+python-dotenv
+aiofiles
+pydantic
+web3
+httpx
+cryptography
