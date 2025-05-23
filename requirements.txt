@@ -8,3 +8,6 @@ pydantic
 web3
 httpx
 cryptography
+greenlet
+python-jose[cryptography]
+passlib[bcrypt]
